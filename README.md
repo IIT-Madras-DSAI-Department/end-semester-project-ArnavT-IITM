@@ -6,7 +6,7 @@
 This repository is the **starter** for your End Semester Project submission in GitHub Classroom. You can implement your solution and push your work in this repository. Please free to edit this README.md file as per your requirements.
 
 > **Scope (as per assignment brief):**
-> Give an introduction to your repository here: Eg. This repository contains a complete implementation for ...
+> Give an introduction to your repository here: Eg. This repository contains a complete custom implementation for an stacked ensemble of XGBoost, Logistic Regression and KNN.
 
 ---
 
@@ -18,7 +18,7 @@ This repository is the **starter** for your End Semester Project submission in G
 
 ## 📁 Repository Structure
 
-* Describe your repository structure here. Explain about overall code organization.
+* Describe your repository structure here. The three algorithm files are KNN.py, LR.py and XGB.py. The main.py imports classes from these files.
 
 ---
 
@@ -35,7 +35,7 @@ All experiments should be runnable from the command line **and** reproducible in
 ### A. Command-line (recommended for grading)
 
 * Mention the instructions to run you .py files.
-  
+  Clone the repository and run the main.py in the same folder as the algorithms and dataset files.
 ---
 
 ## You can further add your own sections/titles along with corresponding contents here:
@@ -44,7 +44,7 @@ All experiments should be runnable from the command line **and** reproducible in
 
 ## 🧾 Authors
 
-**<Name, Roll No.>**, IIT Madras (2025–26)
+**<Arnav Thorat, DA24B027>**, IIT Madras (2025–26)
 
 
 ## Best Practices:
